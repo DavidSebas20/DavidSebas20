@@ -3,7 +3,7 @@
 ![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🚀 About Me
-I'm a backend developer passionate about programming and technology. I'm currently studying **Systems Engineering** at **Universidad Central**. I enjoy solving complex problems and working on innovative projects.
+I'm a backend developer passionate about programming and technology. I'm currently studying **Systems Engineering** at **Universidad Central del Ecuador**. I enjoy solving complex problems and working on innovative projects.
 
 - 🌱 I'm currently improving my skills in **Docker**, **FastAPI**, **Spring Boot**, and **AWS**.
 - 💻 I work with programming languages like **Python**, **C#**, **Java**, and **Go**.

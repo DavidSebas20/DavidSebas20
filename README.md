@@ -35,4 +35,4 @@ I'm a backend developer passionate about programming and technology. I'm current
 ---
 
 ## 🌐 Connect with Me:
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/david-sanguano-salazar/)
